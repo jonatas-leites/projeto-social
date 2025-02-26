@@ -11,3 +11,9 @@
         width: 100vw;/*largura total do navegador*/
         background-color: black;
     }
+
+    main{
+        height: 100vh;
+        position: relative;
+        background-color: green;
+    }
